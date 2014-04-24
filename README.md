@@ -17,5 +17,5 @@ cURL is used to spoof the HTTP POST requests that would usually be made from the
 To reboot your BT Home Hub 4 simply execute the reboot-router.sh script passing in your admin password. For example:
 
 ```bash
-./reboot-router abc123
+./reboot-router.sh abc123
 ```
