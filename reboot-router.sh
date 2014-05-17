@@ -27,7 +27,7 @@ function setPostId() {
   POST_ID=$(echo ${REBOOT_HTML} | sed -n '/post_id/s/.*name="post_id"\s\+value="\([^"]\+\).*/\1/p')
 }
 
-function reboot() {
+function rebootRouter() {
   #Setup prerequisites
   setup
 
@@ -67,4 +67,4 @@ function postDataToRouter() {
                                       -L > /dev/null 2>&1
 }
 
-reboot
+rebootRouter
