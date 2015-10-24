@@ -1,5 +1,5 @@
-bthomehub4-reboot-script
-========================
+BT Home Hub 4 Reboot Script
+==========================
 
 Reboot the BT Home Hub 4 from the command line instead of using the nasty looking web interface. Useful for quick reboots or you can configure as a cron job for periodic restarts.
 
