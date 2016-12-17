@@ -3,6 +3,10 @@ BT Home Hub 4 Reboot Script
 
 Reboot the BT Home Hub 4 from the command line instead of using the nasty looking web interface. Useful for quick reboots or you can configure as a cron job for periodic restarts.
 
+For newer Home Hub routers, check out my CLI tool:
+
+https://github.com/jamesnetherton/homehub-cli
+
 ## Tested on
 * Linux Mint 16 Petra
 * BT Home Hub 4 (Type A), Software version 4.7.5.1.83.8.130.1.17 
